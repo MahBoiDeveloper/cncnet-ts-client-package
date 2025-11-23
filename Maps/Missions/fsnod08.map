@@ -1,3 +1,10 @@
+[155mm]
+Damage=150
+ROF=110
+
+[ARTYHE]
+Verses=100%,85%,68%,35%,35%
+
 [Briefing]
 1=Prior to our main assault on CABAL, we need to
 2=slow down his production capabilities. CABAL is
@@ -394,7 +401,7 @@ ActsLike=1
 TechLevel=5
 IQ=1
 PlayerControl=no
-Allies=GDI,Cabal2
+Allies=GDI,Jellyfish,Cabal2
 Color=DarkBlue
 Side=Nod
 PercentBuilt=0
@@ -433,7 +440,7 @@ ActsLike=1
 TechLevel=10
 IQ=3
 PlayerControl=no
-Allies=Neutral,Cabal2,Jellyfish
+Allies=Neutral,GDI,Cabal2,Jellyfish
 Color=DarkGreen
 Side=GDI
 PercentBuilt=0
